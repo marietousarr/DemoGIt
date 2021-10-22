@@ -1,0 +1,20 @@
+{
+    "projets": [
+        {
+            "projet":
+            {
+                    "nom":"nomProjet",
+                    "librairies": [
+
+                        {
+                            "name":"nomlibrairie",
+                            "version":"version",
+                            "description":"descrip",
+
+                        }
+                    ],
+                    "serveurs": [
+
+                        {
+                            "nom":"noms",
+                            
