@@ -17,6 +17,10 @@ projets:
         nom: nomLib2
         version: versionLib2
         description : descriptionLib2
+      - librairie :
+        nom: nomLib2
+        version: versionLib2
+        description : descriptionLib2
     versions :
       - version :
         nom : nomversion2
