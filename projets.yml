@@ -24,4 +24,7 @@ projets:
       - version :
         nom : nomversion
         url : url22
+      - version :
+        nom : nomversion2
+        url : url222
         
